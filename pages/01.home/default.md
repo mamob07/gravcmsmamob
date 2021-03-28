@@ -5,7 +5,7 @@ hide_git_sync_repo_link: false
 login:
     visibility_requires_access: true
 access:
-    site.login: true
+    site: false
 ---
 
 # Under Maintenance
