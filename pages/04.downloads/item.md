@@ -10,6 +10,7 @@ feed:
     limit: 10
 access:
     site.login: true
+published: false
 ---
 
 Your page summary goes here.
