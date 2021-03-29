@@ -19,7 +19,7 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
-hero_image: mountain.jpg
+hero_image: bg.png
 ---
 
 ## **Qui troverai tutti gli articoli!**
