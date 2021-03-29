@@ -21,4 +21,4 @@ feed:
     limit: 10
 ---
 
-Your page content goes here.
+Qui troverai tutti gli articoli!
