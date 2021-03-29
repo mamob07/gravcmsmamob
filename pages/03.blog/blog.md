@@ -22,4 +22,4 @@ feed:
 hero_image: mountain.jpg
 ---
 
-# **Qui troverai tutti gli articoli!**
+## **Qui troverai tutti gli articoli!**
