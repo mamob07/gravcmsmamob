@@ -20,7 +20,7 @@ display_post_summary:
 feed:
     limit: 10
 hero_image: bg.png
-hero_classes: overlay-dark-gradient
+hero_classes: overlay-dark
 ---
 
 ## **Qui troverai tutti gli articoli!**
