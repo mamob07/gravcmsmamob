@@ -11,6 +11,9 @@ feed:
 access:
     site.login: true
 visible: false
+jscomments:
+    active: true
+    provider: disqus
 ---
 
 Your page summary goes here.
