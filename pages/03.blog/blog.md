@@ -19,6 +19,7 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
+header_image_creditlink: 'https://i.imgur.com/c9RxQI5.png'
 ---
 
 Qui troverai tutti gli articoli!
